@@ -8,7 +8,7 @@ var moveSpeed 		: float 	= 20.0;	 // set the speed of the enemy
 var attackMoveSpeed : float 	= 35.0;	 // set the speed for attack range
 var jumpSpeed 		: float 	= 3.0; 	 // set the jump height
 	
-enum EnemyState { moveLeft = 0, moveRight = 1, moveStop = 2, jumpAir = 3, enemyDie = 4, goHome = 5 }
+enum EnemyState { moveLeft = 0, moveRight = 1, moveUp = 2, moveDown = 3, moveStop = 4, jumpAir = 5, enemyDie = 6, goHome = 7 }
 var enemyState = EnemyState.moveLeft; 	 // set the starting state
 
 var attackRange		: float 	= 1.0; 	 // set the range for the attackMoveSpeed attack/movement speed
@@ -32,6 +32,11 @@ private var distanceToHome   : float = 0.0;				// get the distance to the inital
 private var distanceToTarget : float = 0.0;				// get distance to the target position
 private var controller 		 : CharacterController; 	// get controller 
 
+
+
+var animator : Animator;
+
+
 function Start () 
 {	
 	myTransform = transform.position;
@@ -40,6 +45,8 @@ function Start ()
 
 //	linkToPlayerProperties = GetComponent(playerProperties);  // This links to player properties which includes (lives, states, etc)
 //	aniPlay = GetComponent (aniSprite); // Some sort of animation sprite thing, possibly linked to the player
+
+	animator = GetComponent("Animator");	
 }	
 	
 function Update () 
@@ -50,11 +57,23 @@ function Update ()
 		{
 			case EnemyState.moveLeft :
 			PatrolLeft ();
+			animator.SetInteger("Direction", 0);
 			break; 	
 			
 			case EnemyState.moveRight :
 			PatrolRight ();
+			animator.SetInteger("Direction", 1);
 			break; 	
+			
+			case EnemyState.moveUp :
+			PatrolUp ();
+			animator.SetInteger("Direction", 2);
+			break; 	
+			
+			case EnemyState.moveDown :
+			PatrolDown ();
+			animator.SetInteger("Direction", 3);
+			break; 
 			
 			case EnemyState.moveStop :
 			IdleRight ();
@@ -86,14 +105,29 @@ function OnTriggerEnter (other : Collider)
 // move the enemy right
 function PatrolRight ()
 {
-
+	velocity.x = moveSpeed * Time.deltaTime;
+	animator.SetInteger("Direction", 0);
 }
 
 // move the enemy left
 function PatrolLeft ()
 {
-	velocity.x = -moveSpeed * Time.deltaTime;		// move the controller to the left
-	
+	velocity.x = -moveSpeed * Time.deltaTime;		// move the controller to the left	
+	animator.SetInteger("Direction", 1);
+}
+
+// move the enemy up
+function PatrolUp ()
+{
+	velocity.y = -moveSpeed * Time.deltaTime;		// move the controller to the left	
+	animator.SetInteger("Direction", 2);
+}
+
+// move the enemy down
+function PatrolDown ()
+{
+	velocity.y = moveSpeed * Time.deltaTime;		// move the controller to the left	
+	animator.SetInteger("Direction", 3);
 }
 
 // set movement to 0 and face right
