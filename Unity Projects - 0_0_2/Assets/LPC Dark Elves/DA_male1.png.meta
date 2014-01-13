@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 3ef014047f8494c379fec84a6859cf4d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: DA_male1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1280
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1280
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1280
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1280
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1217
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1217
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1153
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1089
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1089
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1023
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1023
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1023
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1023
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1023
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1023
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 961
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 961
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 961
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 961
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 898
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 898
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 898
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 898
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 898
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 898
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 898
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 833
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 768
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 768
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 705
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 705
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 705
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_74
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 705
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 705
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 705
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 705
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 640
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_85
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 577
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 577
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 511
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 511
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 511
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 448
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_106
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 448
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_107
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 448
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 321
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 255
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 255
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 255
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 255
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 255
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 192
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 192
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_140
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 192
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 192
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 192
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_169
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_174
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: DA_male1_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

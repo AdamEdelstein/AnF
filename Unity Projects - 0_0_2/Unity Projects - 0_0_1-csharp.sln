@@ -1,23 +1,19 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{83B9306B-FBA7-CB69-6B36-05EA3B969100}") = "Unity Projects", "Assembly-UnityScript.unityproj", "{2F264CD1-7781-0FC4-A106-6E41532C117B}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F264CD1-7781-0FC4-A106-6E41532C117B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F264CD1-7781-0FC4-A106-6E41532C117B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F264CD1-7781-0FC4-A106-6E41532C117B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F264CD1-7781-0FC4-A106-6E41532C117B}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-											GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
